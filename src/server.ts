@@ -27,3 +27,10 @@ export function hello(): number {
 }
 
 hello();
+
+class Province {
+    constructor(doc) {
+        this._name = doc.name;
+        th;
+    }
+}
